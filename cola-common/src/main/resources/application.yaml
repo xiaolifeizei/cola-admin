@@ -1,0 +1,17 @@
+dubbo:
+  application:
+    register-mode: instance
+  protocol:
+    name: dubbo
+  provider:
+    retries: 0
+  consumer:
+    check: false
+    timeout: 5000
+    retries: 0
+
+spring:
+  redis:
+    host: localhost
+    port: 6379
+

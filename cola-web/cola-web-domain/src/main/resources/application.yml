@@ -1,0 +1,16 @@
+server:
+  port: 8085
+
+dubbo:
+  application:
+    name: cola-domain
+  registry:
+    address: nacos://127.0.0.1:8848
+  protocol:
+    port: 20889
+
+
+
+
+
+

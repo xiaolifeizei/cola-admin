@@ -1,0 +1,4 @@
+
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.matrix.cola.common.config.CommonAutoConfiguration,\
+com.matrix.cola.common.config.RedisAutoConfiguration

@@ -1,0 +1,2 @@
+GlobalConsumerDubboFilter=com.matrix.cola.service.common.filter.ServiceConsumerDubboFilter
+GlobalProviderDubboFilter=com.matrix.cola.service.common.filter.ServiceProviderDubboFilter

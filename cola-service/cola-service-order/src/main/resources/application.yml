@@ -1,0 +1,34 @@
+server:
+  port: 8082
+
+dubbo:
+  application:
+    name: cola-order
+  registry:
+    protocol: zookeeper
+    address: zookeeper://localhost:2181
+  protocol:
+    name: dubbo
+    port: 20882
+
+# DataSource Config
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/cola?serverTimezone=UTC&autoReconnect=true&useUnicode=true&characterEncoding=UTF-8
+    username: root
+    password: root
+    type: com.alibaba.druid.pool.DruidDataSource
+
+
+mybatis-plus:
+  global-config:
+    db-config:
+      logic-delete-field: deleted # 全局逻辑删除的实体字段名
+      logic-delete-value: 1 # 逻辑已删除值(默认为 1)
+      logic-not-delete-value: 0 # 逻辑未删除值(默认为 0)
+  configuration:
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl #控制台打印sql
+  mapper-locations: classpath*:com/matrix/cola/service/**/mapper/*Mapper.xml
+
+
