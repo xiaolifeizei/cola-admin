@@ -25,6 +25,7 @@ Cola-Admin是一套全部开源的开发平台，毫无保留给个人及企业�
 * Vue 2.6.10
 
 后端代码：[Cola-Admin](https://github.com/xiaolifeizei/cola-admin)
+
 前端代码：[Cola-Ui](https://github.com/xiaolifeizei/cola-ui)
 
 
@@ -88,11 +89,12 @@ Cola-Admin是一套全部开源的开发平台，毫无保留给个人及企业�
 ## 作者说明
 
 QQ：76216170
+
 Email：xiaolifeizei@163.com
 
 
 ## 如果感觉对你有用请作者喝杯饮料吧
 
-<img src="https://s2.loli.net/2022/07/01/2x4SseYukOV1nyr.jpg" alt="微信收款码.jpg" style="zoom:20%;" />
+<img src="https://s2.loli.net/2022/07/01/2x4SseYukOV1nyr.jpg" alt="支付宝收款码.jpg" style="width: 248; height: 337" />
 
-<img src="https://s2.loli.net/2022/07/01/vzUa7iCXBe2GZhm.jpg" alt="微信收款码.jpg" style="zoom:20%;" />
+<img src="https://s2.loli.net/2022/07/01/vzUa7iCXBe2GZhm.jpg" alt="微信收款码.jpg" style="width: 248; height: 337" />
