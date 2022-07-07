@@ -16,6 +16,22 @@ spring:
       connectionProperties: druid.stat.mergeSql=true;druid.stat.slowSqlMillis=5000
       # 配置过滤器
       filters: stat,wall,log4j
+  redis:
+    host: localhost
+    port: 6379
+
+# Dubbo配置
+dubbo:
+  application:
+    register-mode: instance
+  protocol:
+    name: dubbo
+  provider:
+    retries: 0
+  consumer:
+    check: false
+    timeout: 5000
+    retries: 0
 
 mybatis-plus:
   configuration:
