@@ -134,6 +134,7 @@ public abstract class AbstractEntityService<T extends BaseEntity,M extends BaseM
                 rollback();
                 return count;
             }
+            count ++;
         }
         return count;
     }
