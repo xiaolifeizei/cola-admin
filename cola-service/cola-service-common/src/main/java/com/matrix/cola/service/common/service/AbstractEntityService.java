@@ -76,11 +76,7 @@ public abstract class AbstractEntityService<T extends BaseEntity,M extends BaseM
     @Override
     public IPage<T> getPage(Query<T> query) {
         QueryUtil<T> queryUtil = new QueryUtil<T>(query);
-        IPage<T> page = getPage(queryUtil.getPage(),queryUtil.getWrapper());
-        if (ObjectUtil.isNotNull(page)) {
-            afterQuery(page.getRecords());
-        }
-        return page;
+        return getPage(queryUtil.getPage(),queryUtil.getWrapper());
     }
 
     @Override
