@@ -41,7 +41,9 @@ public abstract class AbstractColaEntityService<T extends BaseColaEntity,M exten
         }
         T result = (T)getMapper().selectById(id);
         List<T> list = new ArrayList<>();
-        list.add(result);
+        if (ObjectUtil.isNotNull(result)) {
+            list.add(result);
+        }
         afterQuery(list);
         return result;
     }

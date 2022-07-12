@@ -47,6 +47,7 @@ public abstract class AbstractEntityService<T extends BaseEntity,M extends BaseM
             if (list.size() > 1) {
                 throw new RuntimeException("查询失败，您希望查询出1个对象，但是查询出了" + list.size() + "个对象");
             }
+            afterQuery(list);
             return list.get(0);
         }
         return null;
@@ -55,14 +56,7 @@ public abstract class AbstractEntityService<T extends BaseEntity,M extends BaseM
     @Override
     public T getOne(Query<T> query) {
         QueryUtil<T> queryUtil = new QueryUtil<>(query);
-        List<T> list = getList(queryUtil.getWrapper());
-        if (ObjectUtil.isNotEmpty(list)) {
-            if (list.size() > 1) {
-                throw new RuntimeException("查询失败，您希望查询出1个对象，但是查询出了" + list.size() + "个对象");
-            }
-            return list.get(0);
-        }
-        return null;
+        return getOne(queryUtil.getWrapper());
     }
 
     @Override
