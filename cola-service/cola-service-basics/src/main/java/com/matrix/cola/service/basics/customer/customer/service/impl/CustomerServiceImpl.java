@@ -144,7 +144,7 @@ public class CustomerServiceImpl extends AbstractColaEntityService<CustomerEntit
             }
         }
 
-        dataLogService.updateLog("客户管理",before,po);
+        dataLogService.addUpdateLog("客户管理",before,po);
         cacheProxy.evict(ColaCacheName.CUSTOMER,po.getId().toString());
         cacheProxy.evict(ColaCacheName.CUSTOMER_CATEGORY_NAME, po.getId().toString());
         return Result.ok();
@@ -156,7 +156,7 @@ public class CustomerServiceImpl extends AbstractColaEntityService<CustomerEntit
             return Result.err("删除失败，id不能为空");
         }
         CustomerEntity po = super.getOne(entity);
-        dataLogService.deleteLog("客户管理",po);
+        dataLogService.addDeleteLog("客户管理",po);
         if (!customerCategoryDetailService.deleteCategoryCustomerDetailByCustomerId(entity.getId()).isSuccess()) {
             return Result.err("删除失败，分类与客户关联关系删除失败");
         }

@@ -19,14 +19,14 @@ public interface DataLogService extends BaseColaEntityService<DataLogEntity> {
      * @param before 更新前的数据
      * @param after 更新后的数据
      */
-    void updateLog(String tableName, BaseColaEntity before, BaseColaEntity after);
+    void addUpdateLog(String tableName, BaseColaEntity before, BaseColaEntity after);
 
     /**
      * 记录删除日志
      * @param tableName 表名
      * @param before 删除前的记录
      */
-    void deleteLog(String tableName, BaseColaEntity before);
+    void addDeleteLog(String tableName, BaseColaEntity before);
 
     /**
      * 物理删除数据日志

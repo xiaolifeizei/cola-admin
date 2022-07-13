@@ -28,7 +28,7 @@ public class DataLogServiceImpl extends AbstractColaEntityService<DataLogEntity,
 
 
     @Override
-    public void updateLog(String tableName, BaseColaEntity before, BaseColaEntity after) {
+    public void addUpdateLog(String tableName, BaseColaEntity before, BaseColaEntity after) {
         try {
             DataLogEntity dataLogColaEntity = new DataLogEntity();
             dataLogColaEntity.setTableName(tableName);
@@ -49,7 +49,7 @@ public class DataLogServiceImpl extends AbstractColaEntityService<DataLogEntity,
     }
 
     @Override
-    public void deleteLog(String tableName, BaseColaEntity before) {
+    public void addDeleteLog(String tableName, BaseColaEntity before) {
         try {
             DataLogEntity dataLogColaEntity = new DataLogEntity();
             dataLogColaEntity.setTableName(tableName);

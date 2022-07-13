@@ -153,7 +153,7 @@ public class GoodsServiceImpl extends AbstractColaEntityService<GoodsEntity, Goo
             }
         }
 
-        dataLogService.updateLog("物资管理",before,po);
+        dataLogService.addUpdateLog("物资管理",before,po);
         cacheProxy.evict(ColaCacheName.GOODS,po.getId().toString());
         cacheProxy.evict(ColaCacheName.GOODS_CATEGORY_NAME, po.getId().toString());
         return Result.ok();
@@ -165,7 +165,7 @@ public class GoodsServiceImpl extends AbstractColaEntityService<GoodsEntity, Goo
             return Result.err("删除失败，id 不能为空");
         }
         GoodsEntity goodsEntity = super.getOne(entity.getId());
-        dataLogService.deleteLog("物资管理",goodsEntity);
+        dataLogService.addDeleteLog("物资管理",goodsEntity);
         if (!goodsCategoryDetailService.deleteCategoryGoodsDetailByGoodsId(entity.getId()).isSuccess()) {
             return Result.err("删除失败，分类与物资关联关系删除失败");
         }
