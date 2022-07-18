@@ -11,7 +11,6 @@
     <description>cola-admin管理系统</description>
 
     <properties>
-        <cola.version>2.1</cola.version>
         <springboot.version>2.6.6</springboot.version>
         <dubbo.version>3.0.7</dubbo.version>
         <nacos.version>2.1.0</nacos.version>
