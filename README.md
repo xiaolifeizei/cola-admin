@@ -4,8 +4,8 @@
 <h1 align="center" style="margin: 30px 0 30px; font-weight: bold;">Cola-Admin v2.1</h1>
 <h4 align="center">基于SpringBoot + Dubbo + Element Ui开发的企业级微服务权限管理系统</h4>
 <p align="center">
-	<a href="https://github.com/xiaolifeizei/cola-admin"><img src="https://img.shields.io/badge/ColaAdmin-v2.1-green"></a>
-	<a href="https://github.com/xiaolifeizei/cola-admin/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-Apache%20License%202.0-green"></a>
+	<a href="https://gitee.com/xiaolifeizei/cola-admin"><img src="https://img.shields.io/badge/ColaAdmin-v2.1-green"></a>
+	<a href="https://gitee.com/xiaolifeizei/cola-admin/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-Apache%20License%202.0-green"></a>
 </p>
 
 
@@ -22,9 +22,9 @@
 * Nacos 2.1.0
 * Vue 2.6.10
 
-后端代码：[Cola-Admin](https://github.com/xiaolifeizei/cola-admin)
+后端代码：[Cola-Admin](https://gitee.com/xiaolifeizei/cola-admin)
 
-前端代码：[Cola-Ui](https://github.com/xiaolifeizei/cola-ui)
+前端代码：[Cola-Ui](https://gitee.com/xiaolifeizei/cola-ui)
 
 在线演示：[Cola-Admin](http://www.cola-admin.vip)
 
@@ -44,44 +44,44 @@
 12. 业务案例之客户管理：客户增删查改、客户分类增删查改。
 13. 业务案例之物资管理：物资增删查改、物资分类增删查改、物资规格增删查改。
 
-## 在线演示
+## 在线文档
 
-演示地址：（正在建设中。。。。）
+在线文档：（正在建设中。。。。）
 
 ## 演示图
 
 <table>
     <tr>
-        <td><img alt="登陆页面" src="https://github.com/xiaolifeizei/myImages/blob/master/static/%E7%99%BB%E9%99%86%E9%A1%B5%E9%9D%A2.png?raw=true"/></td>
-        <td><img alt="菜单管理" src="https://github.com/xiaolifeizei/myImages/blob/master/static/%E8%8F%9C%E5%8D%95%E7%AE%A1%E7%90%86.png?raw=true"/></td>
+        <td><img alt="登陆页面" src="https://s1.328888.xyz/2022/07/19/l3xwJ.png"/></td>
+        <td><img alt="菜单管理" src="https://s1.328888.xyz/2022/07/19/l3f57.png"/></td>
     </tr>
     <tr>
-        <td><img alt="错误日志" src="https://github.com/xiaolifeizei/myImages/blob/master/static/%E9%94%99%E8%AF%AF%E6%97%A5%E5%BF%97.png?raw=true"/></td>
-        <td><img alt="错误日志详细信息" src="https://github.com/xiaolifeizei/myImages/blob/master/static/%E9%94%99%E8%AF%AF%E6%97%A5%E5%BF%97%E8%AF%A6%E7%BB%86%E4%BF%A1%E6%81%AF.png?raw=true"/></td>
+        <td><img alt="错误日志" src="https://s1.328888.xyz/2022/07/19/l3PFm.png"/></td>
+        <td><img alt="错误日志详细信息" src="https://s1.328888.xyz/2022/07/19/l3UEE.png"/></td>
     </tr>
     <tr>
-        <td><img alt="服务监控" src="https://github.com/xiaolifeizei/myImages/blob/master/static/%E6%9C%8D%E5%8A%A1%E7%9B%91%E6%8E%A7.png?raw=true"/></td>
-        <td><img alt="机构管理" src="https://github.com/xiaolifeizei/myImages/blob/master/static/%E6%9C%BA%E6%9E%84%E7%AE%A1%E7%90%86.png?raw=true"/></td>
+        <td><img alt="服务监控" src="https://s1.328888.xyz/2022/07/19/lBDRX.png"/></td>
+        <td><img alt="机构管理" src="https://s1.328888.xyz/2022/07/19/lBjsj.png"/></td>
     </tr>
     <tr>
-        <td><img alt="角色管理" src="https://github.com/xiaolifeizei/myImages/blob/master/static/%E8%A7%92%E8%89%B2%E7%AE%A1%E7%90%86.png?raw=true"/></td>
-        <td><img alt="分配菜单" src="https://github.com/xiaolifeizei/myImages/blob/master/static/%E8%A7%92%E8%89%B2%E7%AE%A1%E7%90%86%E5%88%86%E9%85%8D%E8%8F%9C%E5%8D%95.png?raw=true"/></td>
+        <td><img alt="角色管理" src="https://s1.328888.xyz/2022/07/19/l3tAi.png"/></td>
+        <td><img alt="分配菜单" src="https://s1.328888.xyz/2022/07/19/l3z6g.png"/></td>
     </tr>
     <tr>
-        <td><img alt="数据权限" src="https://github.com/xiaolifeizei/myImages/blob/master/static/%E6%95%B0%E6%8D%AE%E6%9D%83%E9%99%90.png?raw=true"/></td>
-        <td><img alt="数据权限配置" src="https://github.com/xiaolifeizei/myImages/blob/master/static/%E6%95%B0%E6%8D%AE%E6%9D%83%E9%99%90%E9%85%8D%E7%BD%AE.png?raw=true"/></td>
+        <td><img alt="数据权限" src="https://s1.328888.xyz/2022/07/19/l37Vh.png"/></td>
+        <td><img alt="数据权限配置" src="https://s1.328888.xyz/2022/07/19/l3QHn.png"/></td>
     </tr>
     <tr>
-        <td><img alt="添加通知" src="https://github.com/xiaolifeizei/myImages/blob/master/static/%E6%B7%BB%E5%8A%A0%E9%80%9A%E7%9F%A5.png?raw=true"/></td>
-        <td><img alt="通知公告" src="https://github.com/xiaolifeizei/myImages/blob/master/static/%E9%80%9A%E7%9F%A5%E5%85%AC%E5%91%8A.png?raw=true"/></td>
+        <td><img alt="添加通知" src="https://s1.328888.xyz/2022/07/19/l3eFs.png"/></td>
+        <td><img alt="通知公告" src="https://s1.328888.xyz/2022/07/19/l3r90.png"/></td>
     </tr>
     <tr>
-        <td><img alt="系统日志" src="https://github.com/xiaolifeizei/myImages/blob/master/static/%E7%B3%BB%E7%BB%9F%E6%97%A5%E5%BF%97.png?raw=true"/></td>
-        <td><img alt="系统日志详细信息" src="https://github.com/xiaolifeizei/myImages/blob/master/static/%E7%B3%BB%E7%BB%9F%E6%97%A5%E5%BF%97%E8%AF%A6%E7%BB%86%E4%BF%A1%E6%81%AF.png?raw=true"/></td>
+        <td><img alt="系统日志" src="https://s1.328888.xyz/2022/07/19/l3qEo.png"/></td>
+        <td><img alt="系统日志详细信息" src="https://s1.328888.xyz/2022/07/19/l3XGF.png"/></td>
     </tr>
     <tr>
-        <td><img alt="用户管理" src="https://github.com/xiaolifeizei/myImages/blob/master/static/%E7%94%A8%E6%88%B7%E7%AE%A1%E7%90%86.png?raw=true"/></td>
-        <td><img alt="字典管理" src="https://github.com/xiaolifeizei/myImages/blob/master/static/%E5%AD%97%E5%85%B8%E7%AE%A1%E7%90%86.png?raw=true"/></td>
+        <td><img alt="用户管理" src="https://s1.328888.xyz/2022/07/19/lBasg.png"/></td>
+        <td><img alt="字典管理" src="https://s1.328888.xyz/2022/07/19/l3Y8S.png"/></td>
     </tr>
 </table>
 
@@ -97,13 +97,12 @@ Email：xiaolifeizei@163.com
 <table>
     <tr>
         <td>
-	<img src="https://github.com/xiaolifeizei/myImages/blob/master/static/%E6%94%AF%E4%BB%98%E5%AE%9D%E6%94%B6%E6%AC%BE%E7%A0%81.jpg?raw=true" alt="支付宝收款码.jpg" style="width: 248; height: 337" />
+	<img src="https://s1.328888.xyz/2022/07/19/lBoLp.md.jpg" alt="支付宝收款码.jpg" style="width: 248; height: 337" />
 	</td>
 	<td>
-	<img src="https://github.com/xiaolifeizei/myImages/blob/master/static/%E5%BE%AE%E4%BF%A1%E6%94%B6%E6%AC%BE%E7%A0%81.jpg?raw=true" alt="微信收款码.jpg" style="width: 248; height: 337" />
+	<img src="https://s1.328888.xyz/2022/07/19/l3Hzp.md.jpg" alt="微信收款码.jpg" style="width: 248; height: 337" />
 	</td>
     </tr>
 </table>
-
 
 
