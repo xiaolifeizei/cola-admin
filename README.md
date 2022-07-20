@@ -50,7 +50,9 @@
 
 ## 在线文档
 
-在线文档：（正在建设中。。。。）
+- 后端文档：https://gitee.com/xiaolifeizei/cola-admin/wikis/%E5%90%8E%E7%AB%AF%E6%96%87%E6%A1%A3
+- 前端文档：https://gitee.com/xiaolifeizei/cola-admin/wikis/%E5%89%8D%E7%AB%AF%E6%96%87%E6%A1%A3
+- 部署文档：https://gitee.com/xiaolifeizei/cola-admin/wikis/%E9%83%A8%E7%BD%B2%E6%96%87%E6%A1%A3
 
 ## 演示图
 
