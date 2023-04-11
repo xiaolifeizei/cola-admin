@@ -58,38 +58,39 @@
 
 <table>
     <tr>
-        <td><img alt="登陆页面" src="https://s1.328888.xyz/2022/07/19/l3xwJ.png"/></td>
-        <td><img alt="菜单管理" src="https://s1.328888.xyz/2022/07/19/l3f57.png"/></td>
+        <td><img alt="登陆页面" src="https://raw.githubusercontent.com/xiaolifeizei/myImages/master/static/%E7%99%BB%E9%99%86%E9%A1%B5%E9%9D%A2.png"/></td>
+        <td><img alt="菜单管理" src="https://raw.githubusercontent.com/xiaolifeizei/myImages/master/static/%E8%8F%9C%E5%8D%95%E7%AE%A1%E7%90%86.png"/></td>
     </tr>
     <tr>
-        <td><img alt="错误日志" src="https://s1.328888.xyz/2022/07/19/l3PFm.png"/></td>
-        <td><img alt="错误日志详细信息" src="https://s1.328888.xyz/2022/07/19/l3UEE.png"/></td>
+        <td><img alt="错误日志" src="https://raw.githubusercontent.com/xiaolifeizei/myImages/master/static/%E9%94%99%E8%AF%AF%E6%97%A5%E5%BF%97.png"/></td>
+        <td><img alt="错误日志详细信息" src="https://raw.githubusercontent.com/xiaolifeizei/myImages/master/static/%E9%94%99%E8%AF%AF%E6%97%A5%E5%BF%97%E8%AF%A6%E7%BB%86%E4%BF%A1%E6%81%AF.png"/></td>
     </tr>
     <tr>
-        <td><img alt="服务监控" src="https://s1.328888.xyz/2022/07/19/lBDRX.png"/></td>
-        <td><img alt="机构管理" src="https://s1.328888.xyz/2022/07/19/lBjsj.png"/></td>
+        <td><img alt="服务监控" src="https://raw.githubusercontent.com/xiaolifeizei/myImages/master/static/%E6%9C%8D%E5%8A%A1%E7%9B%91%E6%8E%A7.png"/></td>
+        <td><img alt="机构管理" src="https://raw.githubusercontent.com/xiaolifeizei/myImages/master/static/%E6%9C%BA%E6%9E%84%E7%AE%A1%E7%90%86.png"/></td>
     </tr>
     <tr>
-        <td><img alt="角色管理" src="https://s1.328888.xyz/2022/07/19/l3tAi.png"/></td>
-        <td><img alt="分配菜单" src="https://s1.328888.xyz/2022/07/19/l3z6g.png"/></td>
+        <td><img alt="角色管理" src="https://raw.githubusercontent.com/xiaolifeizei/myImages/master/static/%E8%A7%92%E8%89%B2%E7%AE%A1%E7%90%86.png"/></td>
+        <td><img alt="分配菜单" src="https://raw.githubusercontent.com/xiaolifeizei/myImages/master/static/%E8%A7%92%E8%89%B2%E7%AE%A1%E7%90%86%E5%88%86%E9%85%8D%E8%8F%9C%E5%8D%95.png"/></td>
     </tr>
     <tr>
-        <td><img alt="数据权限" src="https://s1.328888.xyz/2022/07/19/l37Vh.png"/></td>
-        <td><img alt="数据权限配置" src="https://s1.328888.xyz/2022/07/19/l3QHn.png"/></td>
+        <td><img alt="数据权限" src="https://raw.githubusercontent.com/xiaolifeizei/myImages/master/static/%E6%95%B0%E6%8D%AE%E6%9D%83%E9%99%90.png"/></td>
+        <td><img alt="数据权限配置" src="https://raw.githubusercontent.com/xiaolifeizei/myImages/master/static/%E6%95%B0%E6%8D%AE%E6%9D%83%E9%99%90%E9%85%8D%E7%BD%AE.png"/></td>
     </tr>
     <tr>
-        <td><img alt="添加通知" src="https://s1.328888.xyz/2022/07/19/l3eFs.png"/></td>
-        <td><img alt="通知公告" src="https://s1.328888.xyz/2022/07/19/l3r90.png"/></td>
+        <td><img alt="添加通知" src="https://raw.githubusercontent.com/xiaolifeizei/myImages/master/static/%E6%B7%BB%E5%8A%A0%E9%80%9A%E7%9F%A5.png"/></td>
+        <td><img alt="通知公告" src="https://raw.githubusercontent.com/xiaolifeizei/myImages/master/static/%E9%80%9A%E7%9F%A5%E5%85%AC%E5%91%8A.png"/></td>
     </tr>
     <tr>
-        <td><img alt="系统日志" src="https://s1.328888.xyz/2022/07/19/l3qEo.png"/></td>
-        <td><img alt="系统日志详细信息" src="https://s1.328888.xyz/2022/07/19/l3XGF.png"/></td>
+        <td><img alt="系统日志" src="https://raw.githubusercontent.com/xiaolifeizei/myImages/master/static/%E7%B3%BB%E7%BB%9F%E6%97%A5%E5%BF%97.png"/></td>
+        <td><img alt="系统日志详细信息" src="https://raw.githubusercontent.com/xiaolifeizei/myImages/master/static/%E7%B3%BB%E7%BB%9F%E6%97%A5%E5%BF%97%E8%AF%A6%E7%BB%86%E4%BF%A1%E6%81%AF.png"/></td>
     </tr>
     <tr>
-        <td><img alt="用户管理" src="https://s1.328888.xyz/2022/07/19/lBasg.png"/></td>
-        <td><img alt="字典管理" src="https://s1.328888.xyz/2022/07/19/l3Y8S.png"/></td>
+        <td><img alt="用户管理" src="https://raw.githubusercontent.com/xiaolifeizei/myImages/master/static/%E7%94%A8%E6%88%B7%E7%AE%A1%E7%90%86.png"/></td>
+        <td><img alt="字典管理" src="https://raw.githubusercontent.com/xiaolifeizei/myImages/master/static/%E5%AD%97%E5%85%B8%E7%AE%A1%E7%90%86.png"/></td>
     </tr>
 </table>
+
 
 ## 作者说明
 
@@ -103,12 +104,13 @@ Email：xiaolifeizei@163.com
 <table>
     <tr>
         <td>
-	<img src="https://s1.328888.xyz/2022/07/19/lBoLp.md.jpg" alt="支付宝收款码.jpg" style="width: 248; height: 337" />
+	<img src="https://raw.githubusercontent.com/xiaolifeizei/myImages/master/static/%E6%94%AF%E4%BB%98%E5%AE%9D%E6%94%B6%E6%AC%BE%E7%A0%81.jpg" alt="支付宝收款码.jpg" style="width: 248; height: 337" />
 	</td>
 	<td>
-	<img src="https://s1.328888.xyz/2022/07/19/l3Hzp.md.jpg" alt="微信收款码.jpg" style="width: 248; height: 337" />
+	<img src="https://raw.githubusercontent.com/xiaolifeizei/myImages/master/static/%E5%BE%AE%E4%BF%A1%E6%94%B6%E6%AC%BE%E7%A0%81.jpg" alt="微信收款码.jpg" style="width: 248; height: 337" />
 	</td>
     </tr>
 </table>
+
 
 
