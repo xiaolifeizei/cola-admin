@@ -1,5 +1,5 @@
 <p align="center">
-	<img alt="logo" width="120" height="120"  src="https://s2.loli.net/2022/07/01/hwrfbyMKxp7HjVi.png">
+	<img alt="logo" width="120" height="120"  src="https://raw.githubusercontent.com/xiaolifeizei/myImages/master/picgo/image-20230411111455594.png">
 </p>
 <h1 align="center" style="margin: 30px 0 30px; font-weight: bold;">Cola-Admin v2.1</h1>
 <h4 align="center">基于SpringBoot + Dubbo + Element Ui开发的企业级微服务权限管理系统</h4>
@@ -7,6 +7,7 @@
 	<a href="https://gitee.com/xiaolifeizei/cola-admin"><img src="https://img.shields.io/badge/ColaAdmin-v2.1-green"></a>
 	<a href="https://gitee.com/xiaolifeizei/cola-admin/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-Apache%20License%202.0-green"></a>
 </p>
+
 
 
 ## 平台简介
